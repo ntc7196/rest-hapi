@@ -57,7 +57,7 @@ config.cors = {
  * - config.mongo.URI = 'mongodb://localhost/rest_hapi'; (local db, default)
  * - config.mongo.options = {} (mongoose options)
  */
-config.mongo.URI = 'mongodb://localhost/rest_hapi'
+config.mongo.URI = 'mongodb+srv://ntc.7196@gmail.com:Cong711996%40@cluster0.sg6pb.mongodb.net/?retryWrites=true&w=majority'
 config.mongo.options = {}
 
 /**
